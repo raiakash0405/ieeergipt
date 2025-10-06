@@ -1,52 +1,146 @@
 {
-  "achievements": [
-    {
-      "title": "IEEE Student Branch Excellence Award",
-      "description": "Recognized for outstanding contribution to IEEE activities",
-      "src": "/ieee_logo_blue.png",
-      "ctaText": "Learn More",
-      "ctaLink": "https://www.ieee.org",
-      "content": "Our IEEE Student Branch has been recognized with the prestigious Excellence Award for our outstanding contributions to the IEEE community. This award acknowledges our commitment to fostering innovation, technical excellence, and professional development among our members. We have successfully organized numerous technical workshops, seminars, and competitions that have benefited hundreds of students and professionals in the field of engineering and technology."
-    },
-    {
-      "title": "National Technical Symposium Winner",
-      "description": "First place in the National Technical Symposium 2024",
-      "src": "/iee.jpg",
-      "ctaText": "View Details",
-      "ctaLink": "https://www.ieee.org",
-      "content": "Our team secured the first position in the National Technical Symposium 2024, competing against 50+ engineering colleges across the country. The winning project focused on sustainable energy solutions and demonstrated innovative approaches to renewable energy integration. This achievement highlights our commitment to addressing real-world challenges through engineering excellence and collaborative problem-solving."
-    },
-    {
-      "title": "Best Student Chapter Award",
-      "description": "Awarded by IEEE Region 10 for exceptional student activities",
-      "src": "/ieee-1 1.png",
-      "ctaText": "Read More",
-      "ctaLink": "https://www.ieee.org",
-      "content": "IEEE Region 10 has recognized our student chapter with the Best Student Chapter Award for our exceptional activities and initiatives. This award celebrates our comprehensive approach to student development, including technical workshops, research collaborations, industry partnerships, and community outreach programs. Our chapter has consistently demonstrated leadership in organizing events that bridge the gap between academia and industry."
-    },
-    {
-      "title": "Innovation Challenge Champions",
-      "description": "Winners of the National Innovation Challenge 2023",
-      "src": "/Vector.png",
-      "ctaText": "Explore",
-      "ctaLink": "https://www.ieee.org",
-      "content": "Our team emerged as champions in the National Innovation Challenge 2023, presenting a groundbreaking solution for smart city infrastructure. The winning innovation combined IoT technologies, machine learning algorithms, and sustainable design principles to create an intelligent traffic management system. This achievement showcases our ability to develop practical solutions that can make a real difference in urban development and quality of life."
-    },
-    {
-      "title": "Research Publication Excellence",
-      "description": "Multiple research papers published in IEEE conferences",
-      "src": "/headerlogo.png",
-      "ctaText": "View Papers",
-      "ctaLink": "https://www.ieee.org",
-      "content": "Our student members have achieved remarkable success in research publication, with multiple papers accepted and presented at prestigious IEEE conferences. These publications cover diverse areas including artificial intelligence, renewable energy systems, and cybersecurity. This achievement demonstrates our commitment to advancing knowledge in engineering and technology while providing our students with valuable research experience and academic recognition."
-    },
-    {
-      "title": "Community Impact Award",
-      "description": "Recognized for outstanding community service and outreach",
-      "src": "/iee.jpg",
-      "ctaText": "Learn More",
-      "ctaLink": "https://www.ieee.org",
-      "content": "We have been honored with the Community Impact Award for our outstanding contributions to society through various outreach programs and community service initiatives. Our activities include organizing free technical workshops for underprivileged students, conducting awareness programs about sustainable technology, and mentoring young minds in STEM fields. This award reflects our belief that engineering excellence should be coupled with social responsibility and community engagement."
-    }
-  ]
+  "achievements": {
+    "assign": [
+      {
+        "title": "IEEE RGIPT Alumni Selected as Junior Executives at Airports Authority of India",
+        "date": "Oct 2024",
+        "description": "Congratulations to Abhinav Tripathi, Aman Singh, Basant Kumar, and Shekhar Kumar on their provisional selection as Junior Executives (Electronics) at the Airports Authority of India, marking a proud achievement for IEEE RGIPT Student Branch."
+      },
+      {
+        "title": "IEEE RGIPT Student Branch Wins Best Emerging Student Branch & 1st in Activity Based Incentive Award",
+        "date": "Jan 2025",
+        "description": "IEEE RGIPT Student Branch was honored with the Best Emerging Student Branch Award and secured 1st position in the Activity Based Incentive Award."
+      },
+      {
+        "title": "IEEE RGIPT Students Reach Top 5 in IIT Bombay Techfest 2024 Meshmerize Competition",
+        "date": "Jan 2025",
+        "description": "IEEE RGIPT students secured a Top 5 finalist position at the Meshmerize Competition during IIT Bombay Techfest 2024, showcasing innovation, robotics skills, and teamwork."
+      },
+      {
+        "title": "IEEE RGIPT Wins Awards at IEEE UP Section AGM 2025",
+        "date": "Jan 2025",
+        "description": "IEEE RGIPT Student Branch secured First Place in the Activity-Based Incentive Award and Best Emerging Student Branch Award at the IEEE UP Section AGM 2025, recognizing dedication, teamwork, and innovation."
+      },
+      {
+        "title": "IEEE Student Branch Orientation",
+        "date": "11th Feb 2025",
+        "description": "The IEEE RGIPT Student Branch successfully conducted its orientation programme for the batch of 2024, introducing new members to the vision, mission, and opportunities within IEEE."
+      },
+      {
+        "title": "Announcement of registration for KodeKurrent",
+        "date": "9th Mar 2025",
+        "description": "Registration for KodeKurrent Season One had officially started, marking the launch of a 24-hour software hackathon, internship opportunities, and a VLSI workshop."
+      },
+      {
+        "title": "IEEE RGIPT Student Branch's Kode Kurrent Season One - Winners Announcement",
+        "date": "23rd Mar 2025",
+        "description": "The Champions of KodeX101, KodeX102, and KodeX103 were announced."
+      },
+      {
+        "title": "Expert Session on IoT Applications by Dr. Aditya Singh",
+        "date": "2nd Apr 2025",
+        "description": "A guest lecture by Dr. Aditya Singh on energy for IoT applications, hosted by IEEE RGIPT Student Branch."
+      },
+      {
+        "title": "Workshop 2.0 – Web Development with Nitesh Saini",
+        "date": "6th Apr 2025",
+        "description": "An interactive web development workshop covering backend, DevOps, and real-world deployments, hosted by IEEE RGIPT Student Branch and IEEE Computer Society."
+      },
+      {
+        "title": "Workshop 2.0 – Open Source & GitHub with Aayush Kumar",
+        "date": "7th Apr 2025",
+        "description": "A practical workshop on open source development and version control using Git & GitHub, hosted by IEEE RGIPT Student Branch in collaboration with the IEEE Computer Society."
+      },
+      {
+        "title": "Workshop 2.0 – Computer Society DSA Session (Day 1)",
+        "date": "8th Apr 2025",
+        "description": "Day 1 of IEEE RGIPT Computer Society Workshop 2.0 focused on DSA fundamentals and problem-solving strategies, conducted by Sunny Kumar and Agastya Yadav."
+      },
+      {
+        "title": "Workshop 2.0 – Computer Society Web Development Session (Day 2)",
+        "date": "9th Apr 2025",
+        "description": "Day 2 of IEEE RGIPT Computer Society Workshop 2.0 focused on frontend, backend, and full-stack web development, conducted by Nitesh Saini."
+      },
+      {
+        "title": "Workshop 2.0 – Computer Society Open Source Session (Day 3)",
+        "date": "10th Apr 2025",
+        "description": "Day 3 of IEEE RGIPT Computer Society Workshop 2.0 covered open source fundamentals and hands-on GitHub contributions, conducted by Aayush Kumar."
+      },
+      {
+        "title": "Workshop 2.0 – Machine Learning with Arihant Jain",
+        "date": "22nd Apr 2025",
+        "description": "An IEEE RGIPT Computer Society workshop introducing foundational ML concepts, algorithms, real-world applications, and career insights, conducted by Arihant Jain."
+      },
+      {
+        "title": "Workshop 2.0 – Augmented & Virtual Reality with Swayanshu Rout",
+        "date": "23rd Apr 2025",
+        "description": "An IEEE RGIPT Computer Society workshop exploring AR/VR technologies, tools, applications, and industry impact, conducted by Swayanshu Rout."
+      },
+      {
+        "title": "KodeKurrent Season 1 – Internship Winners at Roostoo",
+        "date": "May 2025",
+        "description": "IEEE RGIPT hackathon participants Adarsh Kumar, Pushkar Raj, Tanish Maheshwari, and Pranesh Sharma secured internships at Roostoo for their outstanding performance."
+      },
+      {
+        "title": "KodeKurrent Season 1 – Prodigal AI Internship Winners",
+        "date": "May 2025",
+        "description": "Participants of IEEE RGIPT’s KodeKurrent Season 1, including Aayush Kharbanda, Sunny Kumar, and others, earned internships at Prodigal AI for their outstanding performance in the hackathon."
+      },
+      {
+        "title": "Launch of DevWave – CS Skill Up Series 2.0",
+        "date": "June 2025",
+        "description": "IEEE RGIPT’s DevWave track offers interactive workshops, mentorship, and hands-on projects in software development, UI/UX, web & app design, and product engineering."
+      },
+      {
+        "title": "Launch of CodeNex – CS Skill Up Series 2.0",
+        "date": "June 2025",
+        "description": "IEEE RGIPT’s CodeNex track provides workshops, coding contests, and mentorship to enhance competitive programming, DSA skills, and placement readiness."
+      },
+      {
+        "title": "Webinar on UI/UX Design with Jitu Raut",
+        "date": "June 2025",
+        "description": "An exclusive IEEE RGIPT webinar on UI/UX design, featuring Jitu Raut, former Director of Design at Flipkart and CheQ, covering Figma, Framer, and LottieFiles."
+      },
+      {
+        "title": "Jay Kumar Sinha Selected for IEEE India Council SCT 2025",
+        "date": "July 2025",
+        "description": "IEEE RGIPT congratulates Jay Kumar Sinha for being selected in the Outreach & Partnerships Team of IEEE India Council SCT 2025, recognizing his leadership and dedication."
+      },
+      {
+        "title": "DevWave Web Development Challenge Winners – CS Skill Up Series 2.0",
+        "date": "Aug 2025",
+        "description": "Winners of the DevWave web development challenge, part of CS Skill Up Series 2.0, were Aadya Agarwal, Ashutosh Sharma, and Vedant Singh, recognized for creativity and technical excellence."
+      },
+      {
+        "title": "CodeNex Challenge Winner – CS Skill Up Series 2.0",
+        "date": "Aug 2025",
+        "description": "Aadarsh emerged as the winner of CodeNex, the competitive programming challenge under CS Skill Up Series 2.0, demonstrating outstanding problem-solving and coding skills."
+      },
+      {
+        "title": "ElectroWave Challenge Winner – CS Skill Up Series 2.0",
+        "date": "Aug 2025",
+        "description": "Krishna Gupta won the ElectroWave electronics challenge under IEEE’s Skill Up Series 2.0, showcasing creativity, problem-solving, and technical excellence."
+      },
+      {
+        "title": "GATE Series Session with Vivek Pawar – IEEE RGIPT SB",
+        "date": "6th Sep 2025",
+        "description": "IEEE RGIPT SB’s GATE Series features Vivek Pawar, GATE CS AIR 60 and ML Engineer at Qualcomm, sharing strategies, insights, and guidance for GATE preparation."
+      },
+      {
+        "title": "GATE Series Session with Bhawna Jain – IEEE RGIPT SB",
+        "date": "7th Sep 2025",
+        "description": "IEEE RGIPT SB’s GATE Series hosts Bhawna Jain, GATE EE’24 AIR 41 and Scientist at BARC, sharing preparation strategies, tips, and inspiration for GATE aspirants."
+      },
+      {
+        "title": "GATE Series Session with Divyansh Tripathi – IEEE RGIPT SB",
+        "date": "13th Sep 2025",
+        "description": "IEEE RGIPT SB’s GATE Series features Divyansh Tripathi, GATE DS & AI AIR 75, sharing strategies, AI/DS project insights, and preparation tips for GATE aspirants."
+      },
+      {
+        "title": "Signal Processing Session with Anirudh Roy – IEEE RGIPT SB",
+        "date": "14th Sep 2025",
+        "description": "IEEE RGIPT SB presents Anirudh Roy, PhD Scholar at Purdue University, sharing expertise in mixed-signal SoC design, Delta Sigma ADCs, and advanced signal processing techniques."
+      }
+    ]
+  }
 }

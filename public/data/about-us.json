@@ -28,29 +28,19 @@
         "description": "IEEE Student Branch established at RGIPT"
       },
       {
-        "year": "2019",
+        "year": "2022",
         "title": "First Workshop Series",
         "description": "Launched technical workshop series for students"
       },
       {
-        "year": "2020",
-        "title": "Digital Transformation",
-        "description": "Adapted to online events during pandemic"
-      },
-      {
-        "year": "2021",
+        "year": "2024",
         "title": "KodeKurrent Launch",
-        "description": "Introduced our flagship hackathon event"
+        "description": "Launch of our first hackathon event"
       },
       {
-        "year": "2022",
-        "title": "Industry Partnerships",
-        "description": "Established partnerships with leading tech companies"
-      },
-      {
-        "year": "2023",
-        "title": "SkillUp Series",
-        "description": "Launched comprehensive skill development programs"
+        "year": "2025",
+        "title": " Workshop Series",
+        "description": "Introduced workshops on AI and Machine Learning"
       }
     ]
   },
